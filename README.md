@@ -5,4 +5,5 @@ Neste repositório, você encontrará os arquivos .XLSX e .R que eu desenvolvi p
 | Exercício                     | Funções Principais | Nome do Arquivo             | Vídeo                                                  |
 |-------------------------------|---------------------|------------------------------|--------------------------------------------------------|
 | Exercício Loja de Eletrônicos | PROCV()             | vendas_lojas_eletronicos.xlsx| [Vídeo](https://www.youtube.com/watch?v=8slNrt9rheY&t=29s) |
+| Exercício Loja de Eletrônicos | ÍNDICE() + CORRESP()    | vendas_lojas_eletronicos.xlsx| [Vídeo](https://www.youtube.com/watch?v=N5P-qs-ckX0) |
 
